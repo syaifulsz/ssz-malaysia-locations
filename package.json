@@ -1,0 +1,19 @@
+{
+  "name": "ssz-malaysia-locations",
+  "version": "1.0.0",
+  "description": "Malaysia States and Areas",
+  "main": "dist/locations.js",
+  "scripts": {
+    "build": "node scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syaifulsz/ssz-malaysia-locations.git"
+  },
+  "author": "Syaiful Shah Zinan <i.works@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/syaifulsz/ssz-malaysia-locations/issues"
+  },
+  "homepage": "https://github.com/syaifulsz/ssz-malaysia-locations#readme"
+}
