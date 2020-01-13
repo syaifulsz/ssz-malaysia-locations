@@ -1,6 +1,5 @@
 const path = require( 'path' );
 const fs = require( 'fs' );
-// const _ = require( 'lodash' );
 
 const states = require( '../states.json' );
 let csvRows = 'location_level_1,location_level_2,location_level_3,location_group\n';
